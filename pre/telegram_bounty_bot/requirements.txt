@@ -1,0 +1,13 @@
+Flask
+Flask-Migrate
+Flask-Script
+Flask-SQLAlchemy
+python-telegram-bot
+pytest
+python-dotenv
+facebook-sdk
+tweepy
+gunicorn==19.7.1
+pygsheets
+oauth2client
+psycopg2
